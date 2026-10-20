@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.svg">
+    <img src="assets/logo-light.svg" alt="TenderFit" width="360">
+  </picture>
+</p>
+
 # TenderFit MCP
 
 **MCP server for Prozorro: Ukrainian public procurement data for Claude, Cursor and any MCP client.**
