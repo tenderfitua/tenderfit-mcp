@@ -22,7 +22,7 @@ One file, Python 3.9+ standard library only. Uses open public endpoints of Prozo
 ## Quick start
 
 ```bash
-curl -O https://raw.githubusercontent.com/<owner>/tenderfit-mcp/main/tenderfit_mcp.py
+curl -O https://raw.githubusercontent.com/tenderfitua/tenderfit-mcp/main/tenderfit_mcp.py
 ```
 
 **Claude Code**
